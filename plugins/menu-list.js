@@ -18,7 +18,7 @@ const defaultMenu = {
 ┃⬡📊 *Version*: %version
 ┃⬡🗃️ *Lib*: Baileys-MD
 ┃⬡🧪 *Mode:* ${global.opts['self'] ? 'Self' : 'publik'}
-┃⬡⏰ *Uptime:* %uptime
+┃⬡⏰ *Uptime:* %uptime (%muptime) 
 ┗⬣
 ┏━━⬣ 𝙄𝙉𝙁𝙊 𝙐𝙎𝙀𝙍 ━⬣
 ┃⬡ 📇 *Name*:  %name 
